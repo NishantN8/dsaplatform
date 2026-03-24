@@ -1,5 +1,6 @@
 import ProblemCard from "./components/ProblemCard";
 import { problems } from "./data/problems";
+import "./styles.css";
 
 export default function App() {
   return (
